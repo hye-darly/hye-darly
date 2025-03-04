@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @hye-darly
+- 👋 Hi, I’m @Meltem Keles
 - 👀 I’m interested in exploring the city and discovering new places  
 - 🌱 I’m currently learning java and java script 
 
